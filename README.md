@@ -27,7 +27,8 @@ RMDL model can be seen as ensemble approach for deep learning models.RMDL solves
 * for Roberta BERT model implementations ! pip install simpletransformers and please follow the code here [https://github.com/garima2751/NLP_Project/blob/main/Src/Roberta_stack.ipynb](link)
 
 ## Results and Conclusion
-********************************************************************************************************************************************************************************** <img src="https://github.com/garima2751/NLP_Project/blob/main/images/nlp_result_table.png" alt="drawing" width="500"/>
+*********************************************************************************************************************************************************************************
+<img src="https://github.com/garima2751/NLP_Project/blob/main/images/nlp_result_table.png" alt="drawing" width="500"/>
 
 * In case of stack overflow dataset : BERT model outperformes RMDL models with an f1-score of 80 %
 * In case of IMDB dataset : Both models perform equally well
