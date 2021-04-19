@@ -24,7 +24,7 @@ RMDL model can be seen as ensemble approach for deep learning models.RMDL solves
 **********************************************************************************************************************************************************************************
 * To implement RMDL model please follow the code here [https://github.com/garima2751/NLP_Project/blob/main/Src/stackoverflowRMDL.ipynb](link)
 * please install RMDL library using !pip install RMDL command
-* for Roberta BERT model implementations ! pip install simpletransformers and please follow the code here [https://github.com/garima2751/NLP_Project/blob/main/Src/Roberta_stack.ipynb](link)
+* for Roberta BERT model implementations ! pip install simpletransformers and please follow the code here [a link] (https://github.com/garima2751/NLP_Project/blob/main/Src/Roberta_stack.ipynb)
 
 ## Results and Conclusion
 *********************************************************************************************************************************************************************************
